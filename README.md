@@ -1,5 +1,5 @@
 ### Hi there 👋
-Software developer with 3 years of experience looking for an online job.
+Software developer with 3 years of experience looking for a remote job.
 Portfolio under construction.
 
 <!--
