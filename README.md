@@ -1,6 +1,6 @@
 ### Hi there 👋
 Software developer with 3 years of experience looking for an online job.
-Portfolio under construction
+Portfolio under construction.
 
 <!--
 **alexgcode/alexgcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
